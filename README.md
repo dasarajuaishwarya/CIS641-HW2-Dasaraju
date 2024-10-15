@@ -2,7 +2,7 @@
 ## * *Aishwarya Dasaraju 🥰* *
 - I am a experimenter 👩‍🔬, who love to re-address my code using new libraries online.
 - I always keep myself up with the technology by listening to podcasts 📻.
-- My interest in the field of cybersecruity drived met to take a step forward on performing a full-fledged research and published a paper too.
+- My interest in the field of cybersecurity drived met to take a step forward on performing a full-fledged research and published a paper too.
 - I am a water loving person and would love to relax on beaches 🏖️ quite often.
 
 ### Technical Background
